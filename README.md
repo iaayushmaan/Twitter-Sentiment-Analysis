@@ -22,7 +22,7 @@ Naive Bayes was my preferred choice for the tweet sentiment analysis project due
   cd ./Twitter-Sentiment-Analysis
 ```
 
-3. Enter your `KAGGLE_USERNAME` and `KAGGLE_KEY` int the second cell
+3. Enter your `KAGGLE_USERNAME` and `KAGGLE_KEY` in the second cell
 
 5. You are good to go!
 
